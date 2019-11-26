@@ -1,6 +1,3 @@
-
-    
-</head>
 <body>
 
 <h1>Listening Samples for ICME2020 (Vocal)</h1>
