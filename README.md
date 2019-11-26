@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0043)https://paperdemo.github.io/icassp2020.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/demos-wav/icme2020-demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h1>Listening Samples for ICASSP2020 (Female)</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    (a) Clean speech:
+  <table style="width:100%">
+	
+  <tbody><tr>
 
-```markdown
-Syntax highlighted code block
+    <td>
+    	<audio controls="controls" style="width:400px">
+			<source src="c3mc0208.wav" type="audio/wav">
+			Your browser does not support the audio element.
+	</audio>
 
-# Header 1
-## Header 2
-### Header 3
+    </td></tr>
+</tbody></table>
+<br>
+<br>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+    (b) Reverberant speech
+  <table style="width:100%">
+	
+  <tbody><tr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    <td>
+    	<audio controls="controls" style="width:400px">
+			<source src="c3mc0208_ch1.wav" type="audio/wav">
+			Your browser does not support the audio element.
+	</audio>
 
-### Jekyll Themes
+    </td></tr>
+</tbody></table>
+<br>
+<br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/demos-wav/icme2020-demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+    (c) MT-LF
+  <table style="width:100%">
+	
+  <tbody><tr>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <td>
+    	<audio controls="controls" style="width:400px">
+			<source src="c3mc0208_ave.wav" type="audio/wav">
+			Your browser does not support the audio element.
+	</audio>
+
+    </td></tr>
+</tbody></table>
+<br>
+<br>
+
+
+    (d) MDM-4O
+  <table style="width:100%">
+	
+  <tbody><tr>
+
+    <td>
+    	<audio controls="controls" style="width:400px">
+			<source src="c3mc0208_mdm.wav" type="audio/wav">
+			Your browser does not support the audio element.
+	</audio>
+
+    </td></tr>
+</tbody></table>
+<br>
+<br>
+
+
+
+
+
+</body></html>
