@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<h4>(A) An example of MIR-1K dataset (tammy_1_01): </h4>
+<h4>(A) An example of MIR-1K dataset (tammy_1_01, chinese pop song): </h4>
 
 
   <table style="width:100%">
