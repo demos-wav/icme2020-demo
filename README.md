@@ -4,7 +4,7 @@
 
 
 
-    (a) Clean vocal signal:
+<h4>(a) Clean vocal signal:</h4>
 <br>
 <br>
 
@@ -14,10 +14,10 @@
    
       <td> (a) Clean vocal signal </td>
       <td>
-    	<audio controls="controls" style="width:400px">
+        <audio controls="controls" style="width:400px">
 			<source src="tammy_1_01_vocal.wav" type="audio/wav">
 			Your browser does not support the audio element.
-	</audio>
+        </audio>
 
       </td>
     </tr></tbody>
