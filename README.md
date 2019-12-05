@@ -7,7 +7,7 @@
     (a) Clean vocal signal:
 <br>
 <br>
-  <table style="width:100%">
+  <table border="1">
 	
   <tbody><tr>
     <td align="center">
