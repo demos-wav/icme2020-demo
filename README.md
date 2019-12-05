@@ -10,8 +10,8 @@
   <table style="width:100%">
 	
   <tbody><tr>
-    <td>
-	<th> (a) Clean vocal signal: </th>   
+    <td align="center">
+	<th> (a) Clean vocal signal </th>   
     </td>	    
     <td>
     	<audio controls="controls" style="width:400px">
