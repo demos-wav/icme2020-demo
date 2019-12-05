@@ -5,11 +5,13 @@
 
 
     (a) Clean vocal signal:
+<br>
+<br>
   <table style="width:100%">
 	
   <tbody><tr>
     <td>
-	(a) Clean vocal signal:    
+	<th> (a) Clean vocal signal: </th>   
     </td>	    
     <td>
     	<audio controls="controls" style="width:400px">
