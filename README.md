@@ -7,20 +7,21 @@
     (a) Clean vocal signal:
 <br>
 <br>
-  <table border="1">
+
+  <table style="width:100%">
 	
-  <tbody><tr>
-    <td align="center">
-	<th> (a) Clean vocal signal </th>   
-    </td>	    
-    <td>
+    <tbody><tr>
+   
+      <th> (a) Clean vocal signal </th>
+      <td>
     	<audio controls="controls" style="width:400px">
 			<source src="tammy_1_01_vocal.wav" type="audio/wav">
 			Your browser does not support the audio element.
 	</audio>
 
-    </td></tr>
-</tbody></table>
+      </td>
+    </tr></tbody>
+  </table>
 <br>
 <br>
 
