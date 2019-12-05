@@ -12,7 +12,7 @@
 	
     <tbody><tr>
    
-      <th> (a) Clean vocal signal </th>
+      <td> (a) Clean vocal signal </td>
       <td>
     	<audio controls="controls" style="width:400px">
 			<source src="tammy_1_01_vocal.wav" type="audio/wav">
