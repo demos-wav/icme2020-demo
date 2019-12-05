@@ -23,8 +23,6 @@
     </tr></tbody>
     
    
-   
-   
   <tbody><tr>
       <td style="center"> (b) Mix singing voice signal </td>
     <td>
@@ -35,8 +33,6 @@
 
     </td></tr>
 </tbody>    
-    
- 
  
  
    <tbody><tr>
@@ -49,8 +45,7 @@
 
     </td></tr>
 </tbody>
- 
- 
+
  
    <tbody><tr>
       <td style="center"> (d) Masking based vocal signal </td>
