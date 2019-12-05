@@ -2,11 +2,11 @@
 
 <h1>Listening Samples for ICME2020 (Vocal)</h1>
 
-
+<br>
+<br>
 
 <h4>(a) Clean vocal signal:</h4>
-<br>
-<br>
+
 
   <table style="width:100%">
 	
