@@ -90,7 +90,7 @@
 
 
 
-<h4>(B) An example of ballade (English ballade song): </h4>
+<h4>(B) An example of ballade (English ballade song, out domain test): </h4>
 
 
   <table style="width:100%">
